@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "name": "Unbranded Cotton Sausages",
+      "image": "http://lorempixel.com/640/480/city",
+      "price": "922.00",
+      "status": false,
+      "id_cate": "2",
+      "id": "3"
+    },
+    {
+      "name": "Sleek Frozen Chips",
+      "image": "http://lorempixel.com/640/480/sports",
+      "price": "697.00",
+      "status": false,
+      "id_cate": "2",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Ergonomic Steel Shirt",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "498.00"
+    },
+    {
+      "name": "Intelligent Concrete Bacon",
+      "image": "http://lorempixel.com/640/480/nature",
+      "price": "461.",
+      "status": false,
+      "id_cate": "2",
+      "id": "6"
+    },
+    {
+      "name": "Handcrafted Concrete Hat",
+      "image": "http://lorempixel.com/640/480/fashion",
+      "price": "580.00",
+      "status": false,
+      "id": "7"
+    },
+    {
+      "id": "6",
+      "name": "Intelligent Concrete Bacon",
+      "image": "http://lorempixel.com/640/480/nature",
+      "price": "461.00"
+    },
+    {
+      "name": "Áo Nam",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/aluisio_azevedo/128.jpg",
+      "price": "565",
+      "status": true,
+      "id_cate": "JjlCfln",
+      "id": "MU6Untp"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Women1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Man"
+    },
+    {
+      "name": "admin",
+      "id": "efAbhX2"
+    },
+    {
+      "name": "hoang",
+      "id": "JjlCfln"
+    }
+  ]
+}
